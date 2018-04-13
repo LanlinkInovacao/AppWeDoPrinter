@@ -9,7 +9,7 @@ AppWeDo Printer is a virtual PDF printer created for the cloud. Check the [relea
 
 ## Building from source
 
-Visual Studio 2017, Wix 3.11, and Votive 2015 are required to build AppWeDo Printer.
+Visual Studio 2017, Wix 3.11.1, and Votive 2017 are required to build AppWeDo Printer.
 
 AppWeDo Printer links to, and distributes the following third party components:
 
