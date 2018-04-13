@@ -1,6 +1,6 @@
 # AppWeDo Printer v1.0.0
 
-AppWeDo Printer is a PDF virtual printer. Check the [releases](https://github.com/LanlinkInovacao/AppWeDoPrinter/releases) page for this project to download a prebuilt MSI package.
+AppWeDo Printer is a virtual PDF printer created for the cloud. Check the [releases](https://github.com/LanlinkInovacao/AppWeDoPrinter/releases) page for this project to download a prebuilt MSI package.
 
 ## System Requirements
 
